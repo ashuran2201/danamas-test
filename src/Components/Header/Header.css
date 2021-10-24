@@ -1,0 +1,8 @@
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #1A73E8;
+    position: sticky;
+    top: 0;
+}
